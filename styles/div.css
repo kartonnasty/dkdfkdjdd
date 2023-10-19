@@ -1,0 +1,29 @@
+.bodydiv{
+    width: 100%;
+    height: 800px;
+    background-color: red;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background-color: blueviolet;
+
+}
+.left{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    min-width: 450px;
+}
+.right{
+    display: flex;
+    margin-right: 10px;
+    width: 140px;
+    max-width: 140px;
+}
+.lefth1{
+    
+}
